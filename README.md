@@ -9,6 +9,9 @@ npm run dev
 ```
 Abra o endereço mostrado no terminal (ex.: `http://localhost:5173`).
 
+
+> Observação: já configuramos `base: '/brunodada/'` em `vite.config.ts` para GitHub Pages.
+
 ## Deploy gratuito
 
 ### Opção A — Vercel (recomendada)

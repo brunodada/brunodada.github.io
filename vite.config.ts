@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // Ex.: base: '/bruno-dada-site/'
 export default defineConfig({
   plugins: [react()],
-  // base: '/NOME-DO-REPO/'
+  base: '/brunodada/'
 })
