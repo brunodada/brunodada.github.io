@@ -95,7 +95,7 @@ export default function App() {
 
               <div className="mt-8 grid grid-cols-3 gap-4 max-w-md">
                 <div className="rounded-2xl bg-white border p-4 shadow-sm">
-                  <p className="text-2xl font-semibold">5+ anos</p>
+                  <p className="text-2xl font-semibold">15+ anos</p>
                   <p className="text-sm text-slate-500">de experiência</p>
                 </div>
                 <div className="rounded-2xl bg-white border p-4 shadow-sm">
@@ -103,7 +103,7 @@ export default function App() {
                   <p className="text-sm text-slate-500">projetos</p>
                 </div>
                 <div className="rounded-2xl bg-white border p-4 shadow-sm">
-                  <p className="text-2xl font-semibold">São Paulo</p>
+                  <p className="text-2xl font-semibold">Osório/RS</p>
                   <p className="text-sm text-slate-500 inline-flex items-center gap-1"><MapPin size={14}/> Brasil</p>
                 </div>
               </div>
@@ -242,7 +242,7 @@ export default function App() {
               <div className="rounded-2xl bg-white border p-6 shadow-sm">
                 <h4 className="font-semibold">Contato direto</h4>
                 <ul className="mt-3 grid gap-2 text-sm">
-                  <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> bruno.dada@email.com</li>
+                  <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> brunodada77@gmail.com</li>
                   <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +55 (51) 999756-5042</li>
                   <li className="flex items-center gap-2"><MapPin className="h-4 w-4" /> Osório/RS, Brasil</li>
                 </ul>
