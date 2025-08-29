@@ -243,8 +243,8 @@ export default function App() {
                 <h4 className="font-semibold">Contato direto</h4>
                 <ul className="mt-3 grid gap-2 text-sm">
                   <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> bruno.dada@email.com</li>
-                  <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +55 (11) 99999-9999</li>
-                  <li className="flex items-center gap-2"><MapPin className="h-4 w-4" /> São Paulo, Brasil</li>
+                  <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +55 (51) 999756-5042</li>
+                  <li className="flex items-center gap-2"><MapPin className="h-4 w-4" /> Osório/RS, Brasil</li>
                 </ul>
               </div>
               <div className="rounded-2xl bg-white border p-6 shadow-sm">
