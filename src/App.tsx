@@ -263,7 +263,7 @@ export default function App() {
       <footer className="border-t">
         <div className="mx-auto max-w-6xl px-4 h-20 flex items-center justify-between text-sm text-slate-600">
           <p>© {year} Bruno Dada. Todos os direitos reservados.</p>
-          <p>Construído com <span className="font-medium">React + Tailwind</span></p>
+          
         </div>
       </footer>
     </div>
