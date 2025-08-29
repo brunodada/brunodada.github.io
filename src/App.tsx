@@ -232,8 +232,10 @@ export default function App() {
                   <label htmlFor="mensagem" className="text-sm">Mensagem</label>
                   <textarea id="mensagem" name="mensagem" rows={4} required className="mt-1 w-full rounded-xl border bg-white px-3 py-2 outline-none focus:ring-2 focus:ring-sky-300" />
                 </div>
-<a href="mailto:seuemail@exemplo.com?subject=Contato%20pelo%20site">Enviar e-mail</a>
-
+                <button className="inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2 bg-slate-900 text-white shadow hover:shadow-md">
+                  <a href="mailto:seuemail@exemplo.com?subject=Contato%20pelo%20site">Enviar e-mail</a>
+ <ArrowRight size={16} />
+                </button>
               </form>
             </div>
 
